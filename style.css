@@ -1,0 +1,27 @@
+     
+          .btnstyle 
+      {
+          font-size: 24px;
+          font-weight: bold;
+          border-radius: 8px;
+          background-color: #a6a2a2;
+          box-shadow: 0 0 0 12px #C0C0C0;
+          padding: 8px 20px; 
+      }
+      
+  
+      .starstyle{
+        font-size: 35px;
+        color:  #888888;
+        padding-right: 10px;
+        padding-left: 10px;
+      }
+      
+@media screen {
+  body {
+    margin-left: 35rem;
+    margin-top: 20rem;
+     background-color:rgb(77, 75, 75); ;
+   }
+
+}
